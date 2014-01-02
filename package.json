@@ -1,0 +1,14 @@
+{
+  "name": "kaapi.coverage",
+  "version": "0.0.1",
+  "description": "Enable istanbul based coverage reports for \"kaapi\" spec runner",
+  "main": "lib/coverage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NetRoY <aditya@netroy.in> (http://netroy.in/)",
+  "license": "MIT",
+  "dependencies": {
+    "istanbul": "~0.2.3"
+  }
+}

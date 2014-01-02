@@ -1,6 +1,6 @@
 {
   "name": "kaapi.coverage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Enable istanbul based coverage reports for \"kaapi\" spec runner",
   "main": "lib/coverage.js",
   "scripts": {
